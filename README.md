@@ -3,7 +3,7 @@ I'm currently pursuing my Engineering at Sri Venkateshwara College Of Engineerin
 I regularly upload videos on My Youtube Channel.
 Reach out to me at vaishnavigowda205@gmail.com.
 
-
+[![](https://visitcount.itsvg.in/api?id=VaishnaviGowdaR&icon=9&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaishnavi_gowda_502) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VaishnaviGowda) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/VaishnaviVaishu) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/VaishnaviVaishu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/VaishnaviVaishu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Vaishnavi_Gowda502) 
@@ -13,7 +13,7 @@ Reach out to me at vaishnavigowda205@gmail.com.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VaishnaviGowdaR&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviGowdaR&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviGowdaR&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VaishnaviGowdaR&icon=9&color=1)](https://visitcount.itsvg.in)
+
