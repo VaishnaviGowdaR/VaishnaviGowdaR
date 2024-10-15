@@ -1,4 +1,4 @@
-# 💫 About Me:  Hi I'am Vaishnavi Gowda R 
+# 💫 About Me:  Hi👋I'am Vaishnavi Gowda R 
 🌱I'm currently pursuing my Engineering at Sri Venkateshwara College Of Engineering Bangalore.
 
 📽️I regularly upload videos on My Youtube Channel.
