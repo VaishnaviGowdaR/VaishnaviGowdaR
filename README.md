@@ -1,9 +1,9 @@
 # 💫 About Me:  Hi I'am Vaishnavi Gowda R 
-I'm currently pursuing my Engineering at Sri Venkateshwara College Of Engineering Bangalore.
+🌱I'm currently pursuing my Engineering at Sri Venkateshwara College Of Engineering Bangalore.
 
-I regularly upload videos on My Youtube Channel.
+📽️I regularly upload videos on My Youtube Channel.
 
-Reach out to me at vaishnavigowda205@gmail.com.
+📫Reach out to me at vaishnavigowda205@gmail.com.
 
 [![](https://visitcount.itsvg.in/api?id=VaishnaviGowdaR&icon=9&color=1)](https://visitcount.itsvg.in)
 
